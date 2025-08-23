@@ -45,14 +45,19 @@
 
 #     print(i)
 
-fruits = ['Apple', 'Strawberry', 'Banana']
+# fruits = ['Apple', 'Strawberry', 'Banana']
 # #0,1,2
 # print(fruits[1])
 
-for i in range(len(fruits)):
-    print(f"Basket {i + 1} contains: {fruits[i]}")
+# for i in range(len(fruits)):
+#     print(f"Basket {i + 1} contains: {fruits[i]}")
 
-for i in range(len(fruits)):
-    if fruits[i] == 'Banana':
-        continue
-    print(f"Basket {i + 1} contains: {fruits[i]}")
+# for i in range(len(fruits)):
+#     if fruits[i] == 'Banana':
+#         continue
+#     print(f"Basket {i + 1} contains: {fruits[i]}")
+
+# for i in range(len(fruits)):
+#     if fruits[i] == 'Strawberry':
+#         break
+#     print(f"Basket {i + 1} contains: {fruits[i]}")
